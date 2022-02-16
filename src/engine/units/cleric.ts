@@ -19,5 +19,5 @@ export default {
     Sleep,
   ],
 
-  cost: 10,
+  cost: 1,
 } as IUnitType
