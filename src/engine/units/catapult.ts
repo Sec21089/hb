@@ -16,5 +16,5 @@ export default {
     stoneThrow({ damage: 4, area: 1, range: [8, 2] }),
   ],
 
-  cost: 10,
+  cost: 1,
 } as IUnitType
