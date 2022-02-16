@@ -13,9 +13,9 @@ export default {
   mana: 0,
   resistance: 0,
   actions: [
-    meleeAttack({ damage: 3 }),
+    meleeAttack({ damage: 10 }),
     Guard,
   ],
 
-  cost: 8,
+  cost: 1,
 } as IUnitType
