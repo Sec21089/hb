@@ -17,5 +17,5 @@ export default {
     meleeAttack({ damage: 4 }),
   ],
 
-  cost: 9,
+  cost: 1,
 } as IUnitType
