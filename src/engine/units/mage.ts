@@ -20,5 +20,5 @@ export default {
     Fireball,
   ],
 
-  cost: 10,
+  cost: 1,
 } as IUnitType
